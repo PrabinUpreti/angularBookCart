@@ -1,0 +1,7 @@
+<li>
+  <img [src]="bookk.imgBg" [alt]="bookk.name" width="100px" />
+  <p>{{ bookk.name | titlecase }}</p>
+  <p>{{ bookk.author }}</p>
+  <p>{{ bookk.price | currency : "NPR" : "symbol-narrow" }}</p>
+  <button (click)="addToCart()">Add To Cart</button>
+</li>
