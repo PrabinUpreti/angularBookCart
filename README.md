@@ -2,6 +2,14 @@
 
 I follow the tutorial from this link of youtube https://youtu.be/IYI0em-xT28
 
+This Project is Angular project. The main propose of this project is to get update of Angular 15 and to learn Typescript
+
+In this app
+
+# ![WebApp](./doc/1.png)
+
+# ![WebApp](./doc/2.png)
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
